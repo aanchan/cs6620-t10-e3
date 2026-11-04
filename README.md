@@ -1,9 +1,9 @@
-# Assignment 3: Find the Fault with CloudWatch
+# Topic 10 Assignment 3: Find the Fault with CloudWatch
 
 **Type:** Post-class, individual
 **Time:** about 1–2 hours
 **Points:** 20
-**Due:** [date]
+
 
 ## Goal
 
