@@ -211,4 +211,3 @@ After you've built the alarm and dashboard by hand, add them to `main.tf` as `aw
 ## Notes
 
 - Using AI to help write queries is fine. Your answers must come from your own data.
-- We can see your lab activity. Results that don't match your NUID will be followed up.
